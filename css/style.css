@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrap {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.head-left img {
+    float: left;
+}
+
+.head {
+    height: 80px
+}
+
+.head-right {
+    margin-left: 50px;
+    float: left;
+}
+
+.head-right a {
+    color: #000;
+    padding: 25px;
+    font-size: 16px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.head-right a:hover {
+    background: red;
+}
+
+.nav {
+    height: 70px;
+    margin-top: 20px;
+}
+
+.nav-left {
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+    background: red;
+    width: 20%;
+    float: left;
+    padding: 10px 0;
+}
+
+.nav-right {
+    float: left;
+    padding: 10px 50px;
+    background: #222;
+    color: #fff;
+    width: 70%;
+    font-size: 15px;
+}
+
+.content-img {
+    text-align: center;
+    height: 180px
+}
+
+.image {
+    float: left;
+    padding-right: 3px;
+}
+
+.image p {
+    border: 1px solid #e8e8e8;
+    border-top: 0;
+}
+
+.main {
+    height: 330px;
+}
+
+.main_size {
+    border: 1px solid #e8e8e8;
+    width: 326px;
+    float: left;
+    margin-right: 5px;
+    height: 330px;
+}
+
+.main_nav {
+    background: red;
+}
+
+.main_nav p {
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+.main_content {
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.main_content_left {
+    width: 40px;
+    height: 50px;
+    padding: 5px 5px;
+    border-radius: 5px;
+    background: red;
+    margin: 7px;
+    float: left;
+    color: #fff;
+}
+
+.magin_content_right {
+    float: right: ;
+    margin-top: 10px;
+}
+
+.magin_content_right p {
+    font-size: 14px;
+    padding-top: 5px;
+}
+
+.main_nav_center {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.main_nav_center p {
+    margin-left: -74px;
+    line-height: 25px;
+}
+
+.main_size_right {
+    margin-bottom: 25px;
+    margin-top: 13px;
+    margin-left: 5px;
+}
+
+.foot {
+    text-align: center;
+    height: 60px;
+    background: #999;
+    clear: both;
+    margin-top: 10px;
+}
+
+.foot p {
+    padding-top: 40px;
+}
